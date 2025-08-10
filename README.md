@@ -1,1 +1,1 @@
-# Day_3_Task
+Created an interactive e-commerce sales dashboard to track key metrics like sales amount, quantity, profit, and average order value, with detailed breakdowns by state, category, customer, and payment mode. Designed a PowerPoint presentation summarizing the visuals and key insights, making it easy to communicate trends, peak periods, and performance highlights to stakeholders.
